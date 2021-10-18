@@ -1,0 +1,8 @@
+target/
+.idea/
+*.jar
+hdfs:/
+.bloop
+.metals
+.vscode
+**/metals.sbt
