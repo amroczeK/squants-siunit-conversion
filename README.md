@@ -3,7 +3,7 @@ Convert incoming data values and units to their base SI unit using Scala and Squ
 
 Use the UnitConversionFunctions on the dataframe in your Spark Transformer during the pivot if you want to convert data coming through your data lake from Silver to Gold
 
-Example:
+## Usage:
 ```
 import UnitConversionFunctions.{transformUnit, transformValue}
 
